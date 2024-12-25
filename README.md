@@ -1,0 +1,1 @@
+This project is a Python program that creates strong, secure passwords. It follows modern security guidelines by generating passwords with at least 12 characters, including a mix of uppercase and lowercase letters, numbers, and special symbols.
